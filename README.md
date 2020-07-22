@@ -1,9 +1,13 @@
-# intern-documentation
-Links and code samples.
+# Intern documentation
+This document is written using [Markdown](https://guides.github.com/features/mastering-markdown/)
 
+
+## YouTube IFrame API
+[YouTube IFrame Player API](https://developers.google.com/youtube/iframe_api_reference#Mobile_considerations)
 
 ## JavaScript inheritance patterns
-[Crockford, inheritance example](https://stackoverflow.com/questions/2709612/using-object-create-instead-of-new)
+ * [Crockford, JavaScript best practices](https://www.crockford.com/adsafe/index.html)
+ * [Crockford, inheritance example](https://stackoverflow.com/questions/2709612/using-object-create-instead-of-new)
 ```javascript
 window.Quad = (function() {
 
